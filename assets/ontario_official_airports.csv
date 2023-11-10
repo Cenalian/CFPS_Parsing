@@ -1,0 +1,404 @@
+﻿OGF_ID,AIRPORT_TYPE,STATUS,NAME,OWNER,AIRPORT_IDENT,LATITUDE,LONGITUDE,ELEVATION,NUMBER_OF_PAVED_RUNWAYS,NUMBER_OF_UNPAVED_RUNWAYS,LGTH_LONGEST_DAYTIME_RUNWAY,LGTH_LONGEST_NIGHTTIME_RUNWAY,CONTROL_TOWER_IND,INSTRUMENT_FLIGHT_RULES_IND,VISUAL_FLIGHT_RULES_IND,AIRPORT_LIGHTING,AIRPORT_AREA_HA,COMMENTS,SOURCE_DETAIL,LOCATION_ACCURACY,GEOMETRY_UPDATE_DATETIME,EFFECTIVE_DATETIME,SYSTEM_DATETIME,OBJECTID,SHAPEAREA,SHAPELEN
+73162595,Airport,Unknown,Elmira (East),<Null>,CPG4,43.5943156,80.5118456,1150,0,0,0,0,,,,,11.225,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,1,0,0
+73162596,Airport,Unknown,Elmira,<Null>,CNT6,43.5845378,80.6021075,1250,0,0,0,0,,,,,13.727,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,2,0,0
+73162597,Airport,Unknown,Sandy Lake,<Null>,CZSJ,53.0638353,93.3441318,951,0,0,0,0,,,,,33.237,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,3,0,0
+73162598,Airport,Unknown,Deer Lake,<Null>,CYVZ,52.654512,94.0594386,1092,0,0,0,0,,,,,43.033,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,4,0,0
+73162599,Airport,Unknown,Keewaywin,<Null>,CPV8,52.9908836,92.8355983,988,0,0,0,0,,,,,60.579,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,5,0,0
+73162600,Airport,Unknown,North Spirit Lake,<Null>,CKQ3,52.488359,92.9691057,1082,0,0,0,0,,,,,65.602,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,6,0,0
+73162601,Airport,Unknown,Poplar Hill,<Null>,CPV7,52.1134537,94.2561419,1095,0,0,0,0,,,,,39.58,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,7,0,0
+73162602,Airport,Unknown,Pikangikum,<Null>,CYPM,51.8197766,93.9735087,1114,0,0,0,0,,,,,47.511,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,8,0,0
+73162603,Airport,Unknown,Pelee Island,<Null>,CYPT,41.7785937,82.6758797,572,0,0,0,0,,,,,65.809,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,9,0,0
+73162604,Hospital Heliport,Unknown,Port Colborne (General Hospital),<Null>,CPX5,42.8793117,79.2567909,575,0,0,0,0,,,,,6.553,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,10,0,0
+73162605,Airport,Unknown,Brantford,<Null>,CYFD,43.1317134,80.3417883,815,0,0,0,0,,,,,200.274,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,11,0,0
+73162606,Airport,Unknown,Stratford Muni,<Null>,CNM4,43.4168664,80.9341876,1215,0,0,0,0,,,,,191.336,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,12,0,0
+73162607,Hospital Heliport,Unknown,Mount Forest (Louise Marshall Hospital),<Null>,CPA2,43.9742741,80.7376404,1365,0,0,0,0,,,,,1.943,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,13,0,0
+73162608,Airport,Unknown,Arthur (Walter's Field),<Null>,CPC3,43.8377779,80.4403653,1550,0,0,0,0,,,,,86.646,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,14,0,0
+73162609,Airport,Unknown,Orton/Smith Field,<Null>,CPS7,43.7737452,80.229099,1450,0,0,0,0,,,,,120.747,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,15,0,0
+73162610,Hospital Heliport,Unknown,Fergus (Groves Memorial Community Hospital),<Null>,CPB2,43.7225123,80.3752988,1411,0,0,0,0,,,,,5.747,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,16,0,0
+73162611,Airport,Unknown,Fergus (Juergensen Field),<Null>,CPG7,43.7358428,80.4480857,1450,0,0,0,0,,,,,41.402,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,17,0,0
+73162612,Airport,Unknown,Palmerston,<Null>,CPR3,43.8539244,80.7827685,1360,0,0,0,0,,,,,58.808,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,18,0,0
+73162613,Hospital Heliport,Unknown,Palmerston (District Hospital),<Null>,CPA3,43.8387188,80.8429653,1300,0,0,0,0,,,,,2.975,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,19,0,0
+73162614,Airport,Unknown,Fordwich,<Null>,CPH9,43.8870641,80.9960063,1250,0,0,0,0,,,,,41.663,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,20,0,0
+73162615,Airport,Unknown,Listowel,<Null>,CPN5,43.7384849,80.9956652,1232,0,0,0,0,,,,,80.002,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,21,0,0
+73162616,Airport,Unknown,Atwood,<Null>,CNN4,43.6936894,81.0021215,1232,0,0,0,0,,,,,38.98,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,22,0,0
+73162617,Airport,Unknown,Ethel,<Null>,CPD2,43.7436995,81.1775872,1170,0,0,0,0,,,,,40.684,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,23,0,0
+73162618,Airport,Unknown,Atwood/Coghlin,<Null>,CAT1,43.6838167,81.0034072,1215,0,0,0,0,,,,,36.448,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,24,0,0
+73162619,Airport,Unknown,Brussels (Armstrong Field),<Null>,CPD4,43.7478444,81.2381168,1100,0,0,0,0,,,,,38.903,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,25,0,0
+73162620,Airport,Unknown,Wingham/Richard W. LeVan,<Null>,CPR7,43.8656348,81.3005098,1075,0,0,0,0,,,,,187.179,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,26,0,0
+73162622,Airport,Unknown,Goderich,<Null>,CYGD,43.7665623,81.7118904,712,0,0,0,0,,,,,137.698,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,27,0,0
+73162623,Airport,Unknown,Sexsmith/Exeter,<Null>,CSX7,43.3759555,81.5057927,856,0,0,0,0,,,,,41.777,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,28,0,0
+73162624,Airport,Unknown,Centralia/James T. Field Memorial,<Null>,CYCE,43.2856339,81.5045289,824,0,0,0,0,,,,,261.828,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,29,0,0
+73162625,Airport,Unknown,Grand Bend,<Null>,CPL4,43.2902282,81.7161574,642,0,0,0,0,,,,,191.051,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,30,0,0
+73162626,Heliport,Unknown,Niagara Falls,<Null>,CPQ3,43.1186709,79.0754327,589,0,0,0,0,,,,,2.517,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,31,0,0
+73162627,Hospital Heliport,Unknown,Bowmanville (Memorial Hospital),<Null>,CPL7,43.9092999,78.6779345,328,0,0,0,0,,,,,2.835,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,32,0,0
+73162628,Airport,Unknown,Toronto/Oshawa Muni,<Null>,CYOO,43.9224508,78.8956574,459,0,0,0,0,,,,,187.491,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,33,0,0
+73162629,Hospital Heliport,Unknown,Port Perry (Community Memorial Hospital),<Null>,CPX6,44.1051889,78.9544476,875,0,0,0,0,,,,,2.556,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,34,0,0
+73162630,Hospital Heliport,Unknown,Ajax (Pickering General Hospital),<Null>,CPE2,43.8368582,79.0171647,300,0,0,0,0,,,,,9.804,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,35,0,0
+73162631,Airport,Unknown,Greenbank,<Null>,CNP8,44.1348326,79.0133687,975,0,0,0,0,,,,,31.545,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,36,0,0
+73162632,Hospital Heliport,Unknown,Uxbridge (Cottage Hospital),<Null>,CNA5,44.102427,79.1288831,900,0,0,0,0,,,,,4.818,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,37,0,0
+73162633,Airport,Unknown,Toronto/Markham,<Null>,CNU8,43.9359548,79.2618882,807,0,0,0,0,,,,,36.653,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,38,0,0
+73162634,Hospital Heliport,Unknown,Markham Stouffville,<Null>,CPH7,43.8831229,79.2327007,647,0,0,0,0,,,,,17.259,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,39,0,0
+73162635,Airport,Unknown,Toronto/Buttonville Municipal,<Null>,CYKZ,43.861155,79.3695416,650,0,0,0,0,,,,,67.406,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,40,0,0
+73162636,Airport,Unknown,Baldwin,<Null>,CPB9,44.2693056,79.3414501,750,0,0,0,0,,,,,36.003,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,41,0,0
+73162637,Airport,Unknown,Holland Landing Airpark,<Null>,CLA4,44.0887292,79.4947415,855,0,0,0,0,,,,,16.274,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,42,0,0
+73162638,Heliport,Unknown,Bolton,<Null>,CNB2,43.8510234,79.6939824,700,0,0,0,0,,,,,12.318,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,43,0,0
+73162639,Heliport,Unknown,"Brampton (National ""D"")",<Null>,CPC4,43.8323468,79.701753,780,0,0,0,0,,,,,10.146,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,44,0,0
+73162640,Heliport,Unknown,"Brampton (National ""P"")",<Null>,CPM2,43.8123564,79.6998613,700,0,0,0,0,,,,,10.076,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,45,0,0
+73162641,Airport,Unknown,Toronto/Downsview,<Null>,CYZD,43.7432763,79.4664825,652,0,0,0,0,,,,,301.079,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,46,0,0
+73162691,Airport,Unknown,Keene/Elmhirst`s Resort,<Null>,CPS2,44.2518273,78.1061864,650,0,0,0,0,,,,,21.489,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,47,0,0
+73162692,Airport,Unknown,Stirling,<Null>,CPJ5,44.2417401,77.5596601,625,0,0,0,0,,,,,10.925,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,48,0,0
+73162693,Airport,Unknown,Trenton,<Null>,CYTR,44.1188501,77.5333515,283,0,0,0,0,,,,,504.619,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,49,0,0
+73162694,Airport,Unknown,Wyoming (Reeces Corners),<Null>,CPM6,42.9753889,82.13649,685,0,0,0,0,,,,,33.69,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,50,0,0
+73162695,Heliport,Unknown,Milton (Afi),<Null>,CMH2,43.5322028,79.9022298,687,0,0,0,0,,,,,1.632,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,51,0,0
+73162696,Airport,Unknown,Edenvale,<Null>,CNV8,44.4371871,79.9633424,714,0,0,0,0,,,,,220.824,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,52,0,0
+73162697,Airport,Unknown,Cookstown,<Null>,CCT2,44.2374764,79.6396264,750,0,0,0,0,,,,,54.303,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,53,0,0
+73162698,Airport,Unknown,Barrie-Orillia (Lake Simcoe Regional),<Null>,CYLS,44.4877421,79.5548204,968,0,0,0,0,,,,,246.534,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,54,0,0
+73162699,Airport,Unknown,Trenton/Mountain View,<Null>,CPZ3,44.0694721,77.33992,362,0,0,0,0,,,,,239.917,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,55,0,0
+73162700,Airport,Unknown,Belleville,<Null>,CNU4,44.1925124,77.308826,320,0,0,0,0,,,,,19.556,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,56,0,0
+73162701,Airport,Unknown,Tyendinaga (Mohawk),<Null>,CPU6,44.1839199,77.105698,260,0,0,0,0,,,,,115.018,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,57,0,0
+73162702,Airport,Unknown,Picton,<Null>,CNT7,43.9881739,77.1346425,465,0,0,0,0,,,,,206.436,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,58,0,0
+73162703,Airport,Unknown,Kingston,<Null>,CYGK,44.2256257,76.5984845,305,0,0,0,0,,,,,268.076,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,59,0,0
+73162704,Hospital Heliport,Unknown,Kingston (General Hospital),<Null>,CPJ7,44.2222104,76.4934327,261,0,0,0,0,,,,,1.145,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,60,0,0
+73162705,Airport,Unknown,Gananoque,<Null>,CNN8,44.4005276,76.2421699,395,0,0,0,0,,,,,171.436,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,61,0,0
+73162706,Hospital Heliport,Unknown,Toronto (St. Michael`s Hospital),<Null>,CTM4,43.6536226,79.3778318,529,0,0,0,0,,,,,1.329,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,62,0,0
+73162707,Heliport,Unknown,Borden,<Null>,CYBN,44.2715952,79.9123879,729,0,0,0,0,,,,,0.087,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,63,0,0
+73162708,Airport,Unknown,Bradford,<Null>,CPM7,44.1356419,79.6286695,973,0,0,0,0,,,,,42.192,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,64,0,0
+73162709,Airport,Unknown,Plevna/Tomvale,<Null>,CNA9,44.9162871,76.934731,890,0,0,0,0,,,,,46.003,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,65,0,0
+73162710,Airport,Unknown,Bancroft,<Null>,CNW3,45.0735745,77.8811849,1085,0,0,0,0,,,,,32.362,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,66,0,0
+73162711,Hospital Heliport,Unknown,Bancroft (North Hastings District Hospital),<Null>,CPB7,45.0713889,77.8788889,1085,0,0,0,0,,,,,2.222,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,67,0,0
+73162712,Hospital Heliport,Unknown,Haliburton (Hospital),<Null>,CNF2,45.0380715,78.5301049,1050,0,0,0,0,,,,,3.586,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,68,0,0
+73162713,Airport,Unknown,Haliburton/Stanhope Muni,<Null>,CND4,45.1113427,78.6418809,1066,0,0,0,0,,,,,26.154,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,69,0,0
+73162714,Hospital Heliport,Unknown,Minden (Hospital),<Null>,CMI2,44.9251299,78.7302223,905,0,0,0,0,,,,,3.26,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,70,0,0
+73162715,Airport,Unknown,Muskoka,<Null>,CYQA,44.9695067,79.3001209,925,0,0,0,0,,,,,327.438,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,71,0,0
+73162716,Hospital Heliport,Unknown,Bracebridge (South Muskoka Memorial Hospital),<Null>,CPL2,45.04752,79.3145526,850,0,0,0,0,,,,,4.13,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,72,0,0
+73162717,Hospital Heliport,Unknown,Huntsville (Memorial District Hospital),<Null>,CPC9,45.339179,79.2058536,975,0,0,0,0,,,,,17.713,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,73,0,0
+73162718,Airport,Unknown,Huntsville/Deerhurst Resort,<Null>,CDH1,45.3533639,79.1538533,1029,0,0,0,0,,,,,88.784,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,74,0,0
+73162719,Airport,Unknown,Emsdale,<Null>,CNA4,45.5455506,79.3431766,1150,0,0,0,0,,,,,66.535,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,75,0,0
+73162720,Airport,Unknown,Windermere,<Null>,CNW2,45.1617222,79.5362309,746,0,0,0,0,,,,,35.031,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,76,0,0
+73162721,Airport,Unknown,South River/Sundridge,<Null>,CPE6,45.8239913,79.3230277,1160,0,0,0,0,,,,,53.866,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,77,0,0
+73162722,Airport,Unknown,Parry Sound Area Muni,<Null>,CNK4,45.2600971,79.8345708,832,0,0,0,0,,,,,129.567,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,78,0,0
+73162723,Hospital Heliport,Unknown,Parry Sound Medical,<Null>,CRS2,45.3409146,80.0158931,800,0,0,0,0,,,,,7.057,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,79,0,0
+73162724,Airport,Unknown,Westport/Rideau Lakes,<Null>,CRL2,44.6649384,76.3994514,500,0,0,0,0,,,,,19.385,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,80,0,0
+73162725,Hospital Heliport,Unknown,Perth (Great War Memorial Hospital),<Null>,CNC9,44.9062164,76.2529169,450,0,0,0,0,,,,,3.336,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,81,0,0
+73162726,Hospital Heliport,Unknown,Smiths Falls (Community Hospital),<Null>,CNS9,44.9072862,76.0273319,409,0,0,0,0,,,,,2.617,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,82,0,0
+73162727,Airport,Unknown,Smiths Falls-Montague (Russ Beach),<Null>,CYSH,44.9463502,75.9401607,416,0,0,0,0,,,,,150.56,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,83,0,0
+73162728,Airport,Unknown,Brockville-Thousand Islands Regional Tackaberry,<Null>,CNL3,44.6393042,75.7537574,402,0,0,0,0,,,,,176.743,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,84,0,0
+73162729,Airport,Unknown,Carleton Place,<Null>,CNR6,45.1050568,76.1253202,450,0,0,0,0,,,,,30.081,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,85,0,0
+73162730,Hospital Heliport,Unknown,Carleton Place (District Memorial Hospital),<Null>,CPN7,45.1415,76.1369217,436,0,0,0,0,,,,,1.762,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,86,0,0
+73162731,Heliport,Unknown,Ottawa/Dwyer Hill,<Null>,CYDH,45.1330546,75.9497901,325,0,0,0,0,,,,,41.925,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,87,0,0
+73162732,Airport,Unknown,Ottawa/Carp,<Null>,CYRP,45.3190118,76.0253408,382,0,0,0,0,,,,,390.413,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,88,0,0
+73162733,Airport,Unknown,Ottawa/Rockcliffe,<Null>,CYRO,45.460063,75.6431568,188,0,0,0,0,,,,,58.641,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,89,0,0
+73162734,Hospital Heliport,Unknown,Ottawa (Children`s Hospital),<Null>,CPK7,45.4010503,75.6515092,272,0,0,0,0,,,,,13.251,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,90,0,0
+73162735,Airport,Unknown,Ottawa/Macdonald-Cartier Intl,<Null>,CYOW,45.3217489,75.670113,374,0,0,0,0,,,,,1083.446,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,91,0,0
+73162736,Airport,Unknown,Kars/Rideau Valley Air Park,<Null>,CPL3,45.1016769,75.6297572,286,0,0,0,0,,,,,40.15,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,92,0,0
+73162737,Hospital Heliport,Unknown,Ottawa (Civic Hospital),<Null>,CPP7,45.3915135,75.7205982,265,0,0,0,0,,,,,0.111,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,93,0,0
+73162738,Airport,Unknown,Iroquois,<Null>,CNP7,44.8420919,75.312317,246,0,0,0,0,,,,,35.185,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,94,0,0
+73162739,Airport,Unknown,Winchester,<Null>,CNA8,45.0450068,75.3028479,250,0,0,0,0,,,,,16.401,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,95,0,0
+73162740,Airport,Unknown,Ottawa/Embrun,<Null>,CPR2,45.2399709,75.3019736,230,0,0,0,0,,,,,15.736,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,96,0,0
+73162741,Airport,Unknown,Morrisburg,<Null>,CNS8,44.9472073,75.0766496,254,0,0,0,0,,,,,19.627,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,97,0,0
+73162742,Airport,Unknown,Pendleton,<Null>,CNF3,45.4873148,75.094084,260,0,0,0,0,,,,,150.413,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,98,0,0
+73162743,Airport,Unknown,Hawkesbury (Windover Field),<Null>,CPD8,45.5653566,74.8091307,165,0,0,0,0,,,,,44.289,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,99,0,0
+73162744,Airport,Unknown,Hawkesbury,<Null>,CNV4,45.6166695,74.6478026,167,0,0,0,0,,,,,82.809,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,100,0,0
+73162745,Airport,Unknown,Alexandria,<Null>,CNS4,45.3302908,74.6230812,260,0,0,0,0,,,,,13.829,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,101,0,0
+73162746,Hospital Heliport,Unknown,Cornwall (Community Hosp McConnell Site),<Null>,CPS6,45.0305919,74.718161,230,0,0,0,0,,,,,9.058,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,102,0,0
+73162747,Airport,Unknown,Cornwall Regional,<Null>,CYCC,45.0924559,74.5666505,175,0,0,0,0,,,,,38.92,,Nav Canada,Within 100 metres,,2012/03/28 10:38:07+00,2012/03/29 09:00:55+00,103,0,0
+73162748,Airport,Unknown,Hawkesbury (East),<Null>,CPG5,45.5839636,74.5490519,200,0,0,0,0,,,,,58.901,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,104,0,0
+73162749,Airport,Unknown,Deep River/Rolph,<Null>,CPH2,46.1162478,77.5272505,490,0,0,0,0,,,,,22.162,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,105,0,0
+73162750,Airport,Unknown,Petawawa,<Null>,CYWA,45.9489155,77.3149259,427,0,0,0,0,,,,,43.507,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,106,0,0
+73162751,Airport,Unknown,Pembroke,<Null>,CYTA,45.8649742,77.2520258,529,0,0,0,0,,,,,99.985,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,107,0,0
+73162752,Hospital Heliport,Unknown,Pembroke (Regional Hosp),<Null>,CNG5,45.8151975,77.1079456,496,0,0,0,0,,,,,0.479,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,108,0,0
+73162753,Airport,Unknown,Barry's Bay/Madawaska Valley Airpark,<Null>,CNZ4,45.5046724,77.644494,1000,0,0,0,0,,,,,41.231,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,109,0,0
+73162754,Hospital Heliport,Unknown,Barry`s Bay (St. Francis Memorial Hospital),<Null>,CPV6,45.4822715,77.6947716,1000,0,0,0,0,,,,,2.01,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,110,0,0
+73162755,Airport,Unknown,Cobden/Bruce McPhail Memorial,<Null>,CPF4,45.5953588,76.833973,500,0,0,0,0,,,,,36.092,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,111,0,0
+73162756,Hospital Heliport,Unknown,Renfrew (Victoria Hospital),<Null>,CPG9,45.4825101,76.6986728,400,0,0,0,0,,,,,2.452,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,112,0,0
+73162757,Airport,Unknown,Arnprior/South Renfrew Muni,<Null>,CNP3,45.4129276,76.3661524,358,0,0,0,0,,,,,173.115,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,113,0,0
+73162758,Airport,Unknown,Mattawa,<Null>,CMA2,46.3011263,78.7484902,600,0,0,0,0,,,,,24.799,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,114,0,0
+73162759,Airport,Unknown,North Bay,<Null>,CYYB,46.3649565,79.4239864,1215,0,0,0,0,,,,,709.312,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,115,0,0
+73162760,Airport,Unknown,Arnstein,<Null>,CNR9,45.9254324,79.9279383,745,0,0,0,0,,,,,8.228,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,116,0,0
+73162761,Hospital Heliport,Unknown,Sturgeon Falls (West Nipissing General Hospital),<Null>,CNM3,46.3730149,79.9167116,680,0,0,0,0,,,,,5.663,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,117,0,0
+73162762,Hospital Heliport,Unknown,New Liskeard (Temiskaming Hospital),<Null>,CNV3,47.4950201,79.6929126,895,0,0,0,0,,,,,9.564,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,118,0,0
+73162763,Airport,Unknown,Gore Bay-Manitoulin,<Null>,CYZE,45.8838219,82.5698088,635,0,0,0,0,,,,,92.148,,Nav Canada,Within 100 metres,,2012/03/28 10:38:07+00,2012/03/29 09:00:55+00,119,0,0
+73162764,Hospital Heliport,Unknown,Mindemoya (Hospital),<Null>,CNW4,45.738889,82.1666667,675,0,0,0,0,,,,,2.21,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,120,0,0
+73162765,Hospital Heliport,Unknown,Little Current (Manitoulin Health Centre),<Null>,CNT4,45.978632,81.9264315,625,0,0,0,0,,,,,0.213,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,121,0,0
+73162766,Airport,Unknown,Manitowaning/Manitoulin East Muni,<Null>,CYEM,45.8416101,81.8592154,869,0,0,0,0,,,,,238.264,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,122,0,0
+73162767,Airport,Unknown,Killarney,<Null>,CPT2,45.9787085,81.4923441,608,0,0,0,0,,,,,69.014,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,123,0,0
+73162768,Airport,Unknown,Sudbury/Coniston,<Null>,CSC9,46.4813892,80.8341542,886,0,0,0,0,,,,,99.098,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,124,0,0
+73162769,Airport,Unknown,Sudbury,<Null>,CYSB,46.6281057,80.7978332,1141,0,0,0,0,,,,,506.047,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,125,0,0
+73162770,Airport,Unknown,Elk Lake,<Null>,CPE3,47.7295122,80.3149702,950,0,0,0,0,,,,,60.302,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,126,0,0
+73162771,Airport,Unknown,Earlton (Timiskaming Regional),<Null>,CYXR,47.6954641,79.8502128,798,0,0,0,0,,,,,246.635,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,127,0,0
+73162772,Hospital Heliport,Unknown,Englehart (District Hospital),<Null>,CNS3,47.8230073,79.8799939,700,0,0,0,0,,,,,2.718,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,128,0,0
+73162773,Airport,Unknown,Kirkland Lake,<Null>,CYKX,48.2099771,79.9783585,1157,0,0,0,0,,,,,193.969,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,129,0,0
+73162774,Airport,Unknown,Timmins/Victor M. Power,<Null>,CYTS,48.5714223,81.3696907,967,0,0,0,0,,,,,1049.608,,Nav Canada,Within 100 metres,,2012/03/28 10:38:07+00,2012/03/29 09:00:55+00,130,0,0
+73162775,Airport,Unknown,Chapleau,<Null>,CYLD,47.8213409,83.3526835,1470,0,0,0,0,,,,,342.22,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,131,0,0
+73162642,Hospital Heliport,Unknown,Toronto (Sunnybrook Medical Centre),<Null>,CNY8,43.7228757,79.3736935,480,0,0,0,0,,,,,39.933,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,132,0,0
+73162643,Hospital Heliport,Unknown,Toronto (Hospital For Sick Children),<Null>,CNW8,43.6572856,79.3875453,498,0,0,0,0,,,,,2.708,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,133,0,0
+73162644,Airport,Unknown,Toronto/ Billy Bishop Toronto City Airport,<Null>,CYTZ,43.626158,79.3967253,251,0,0,0,0,,,,,152.501,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,134,0,0
+73162645,Heliport,Unknown,Toronto/Wilson`s,<Null>,CPY5,43.6177669,79.5648402,370,0,0,0,0,,,,,2.92,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,135,0,0
+73162646,Airport,Unknown,Toronto/Lester B. Pearson Intl,<Null>,CYYZ,43.6775546,79.6303834,569,0,0,0,0,,,,,1596.879,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,136,0,0
+73162647,Heliport,Unknown,Toronto/Tarten,<Null>,CPA5,43.6535347,79.6584318,560,0,0,0,0,,,,,0.645,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,137,0,0
+73162648,Hospital Heliport,Unknown,Toronto (Mississauga Credit Valley Hospital),<Null>,CPK6,43.5614533,79.7029016,542,0,0,0,0,,,,,0.878,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,138,0,0
+73162649,Hospital Heliport,Unknown,Oakville (Trafalgar Memorial Hospital),<Null>,CPE8,43.4844858,79.6673407,362,0,0,0,0,,,,,143.111,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,139,0,0
+73162650,Airport,Unknown,Burlington Executive,<Null>,CZBA,43.4418401,79.850497,602,0,0,0,0,,,,,59.693,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,140,0,0
+73162651,Hospital Heliport,Unknown,Milton (District Hospital),<Null>,CPY2,43.4967201,79.8689712,657,0,0,0,0,,,,,11.806,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,141,0,0
+73162652,Hospital Heliport,Unknown,Georgetown (Georgetown & District Hospital),<Null>,CNZ6,43.6447754,79.9338302,878,0,0,0,0,,,,,6.546,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,142,0,0
+73162653,Airport,Unknown,Brampton,<Null>,CNC3,43.7589738,79.8745617,935,0,0,0,0,,,,,79.9,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,143,0,0
+73162654,Airport,Unknown,Wiarton,<Null>,CYVV,44.744947,81.1049865,729,0,0,0,0,,,,,325.596,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,144,0,0
+73162655,Airport,Unknown,Owen Sound/Billy Bishop Regional,<Null>,CYOS,44.5916239,80.8378151,1007,0,0,0,0,,,,,82.415,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,145,0,0
+73162656,Hospital Heliport,Unknown,Owen Sound (Grey Bruce Health Services),<Null>,CNK6,44.5695653,80.9115213,794,0,0,0,0,,,,,23.036,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,146,0,0
+73162657,Airport,Unknown,Southampton,<Null>,CPF7,44.4926171,81.3342993,685,0,0,0,0,,,,,60.131,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,147,0,0
+73162658,Airport,Unknown,Port Elgin (Pryde Field),<Null>,CPG6,44.4596195,81.3791576,661,0,0,0,0,,,,,47.845,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,148,0,0
+73162659,Airport,Unknown,Port Elgin,<Null>,CNL4,44.4138089,81.4174051,650,0,0,0,0,,,,,15.037,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,149,0,0
+73162660,Airport,Unknown,Kincardine,<Null>,CNS7,44.2021034,81.6036647,772,0,0,0,0,,,,,57.553,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,150,0,0
+73162661,Hospital Heliport,Unknown,Kincardine (South Bruce Grey Health Centre),<Null>,CPU2,44.1885134,81.6249673,700,0,0,0,0,,,,,6.612,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,151,0,0
+73162662,Airport,Unknown,Kincardine/Shepherd's Landing,<Null>,CKS9,44.1169381,81.695047,675,0,0,0,0,,,,,14.104,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,152,0,0
+73162663,Airport,Unknown,Lucknow Airpark,<Null>,CLK3,43.9678391,81.4930995,960,0,0,0,0,,,,,61.185,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,153,0,0
+73162664,Airport,Unknown,Teeswater (Thompson Field),<Null>,CPC6,43.949194,81.2721431,1000,0,0,0,0,,,,,23.081,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,154,0,0
+73162665,Hospital Heliport,Unknown,Walkerton (County Of Bruce General Hospital),<Null>,CNG6,44.1219767,81.1526999,875,0,0,0,0,,,,,2.42,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,155,0,0
+73162666,Airport,Unknown,Hanover/Saugeen Muni,<Null>,CPN4,44.157933,81.0621902,939,0,0,0,0,,,,,99.252,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,156,0,0
+73162667,Hospital Heliport,Unknown,Hanover (District Hospital),<Null>,CNZ7,44.1413342,81.0295365,935,0,0,0,0,,,,,4.214,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,157,0,0
+73162668,Hospital Heliport,Unknown,Durham (Memorial Hospital),<Null>,CPD3,44.1799371,80.8297981,1125,0,0,0,0,,,,,2.097,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,158,0,0
+73162669,Hospital Heliport,Unknown,Markdale (Centre Grey General Hospital),<Null>,CPD9,44.3149545,80.6553549,1395,0,0,0,0,,,,,1.295,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,159,0,0
+73162670,Hospital Heliport,Unknown,Meaford (General Hospital),<Null>,CPA7,44.6058342,80.5998963,675,0,0,0,0,,,,,1.984,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,160,0,0
+73162671,Hospital Heliport,Unknown,Collingwood (General and Marine Hospital),<Null>,CPP2,44.4999064,80.2030527,600,0,0,0,0,,,,,5.208,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,161,0,0
+73162672,Airport,Unknown,Collingwood,<Null>,CNY3,44.4476755,80.1595781,730,0,0,0,0,,,,,162.927,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,162,0,0
+73162673,Hospital Heliport,Unknown,Midland (Huronia District Hospital),<Null>,CPW6,44.7421455,79.9136268,775,0,0,0,0,,,,,9.47,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,163,0,0
+73162674,Airport,Unknown,Midland/Huronia,<Null>,CYEE,44.6835876,79.9293201,770,0,0,0,0,,,,,142.249,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,164,0,0
+73162675,Airport,Unknown,Wyevale (Boker Field),<Null>,CNL8,44.6560142,79.8785359,705,0,0,0,0,,,,,42.126,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,165,0,0
+73162676,Airport,Unknown,New Lowell,<Null>,CPE7,44.3869741,79.9434369,625,0,0,0,0,,,,,40.405,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,166,0,0
+73162677,Airport,Unknown,Mansfield,<Null>,CPV4,44.1441872,80.0106528,995,0,0,0,0,,,,,42.61,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,167,0,0
+73162678,Airport,Unknown,Shelburne/Fisher Field,<Null>,CNN3,44.029295,80.2017082,1675,0,0,0,0,,,,,46.283,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,168,0,0
+73162679,Airport,Unknown,Orangeville/Murray Wesley Kot Field,<Null>,CPV2,43.9602254,80.1546896,1550,0,0,0,0,,,,,26.921,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,169,0,0
+73162680,Airport,Unknown,Tottenham/Volk,<Null>,CPM5,43.9935244,79.7804224,980,0,0,0,0,,,,,52.287,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,170,0,0
+73162681,Hospital Heliport,Unknown,Alliston (Stevenson Memorial Hospital),<Null>,CPZ2,44.1555886,79.8747538,750,0,0,0,0,,,,,3.794,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,171,0,0
+73162682,Heliport,Unknown,Alliston,<Null>,CPJ2,44.1426746,79.8044025,760,0,0,0,0,,,,,39.089,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,172,0,0
+73162683,Airport,Unknown,Alliston,<Null>,CNY4,44.1830164,79.8387463,720,0,0,0,0,,,,,72.812,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,173,0,0
+73162684,Airport,Unknown,Lefroy,<Null>,CPQ4,44.2927974,79.547626,724,0,0,0,0,,,,,19.478,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,174,0,0
+73162685,Hospital Heliport,Unknown,Barrie (Royal Victoria Hosp),<Null>,CRV2,44.4147479,79.6623852,855,0,0,0,0,,,,,14.951,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,175,0,0
+73162686,Heliport,Unknown,Orillia (Ontario Provincial Police),<Null>,COP2,44.5867936,79.4345263,800,0,0,0,0,,,,,82.439,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,176,0,0
+73162687,Airport,Unknown,Lindsay,<Null>,CNF4,44.3646069,78.7817019,882,0,0,0,0,,,,,69.635,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,177,0,0
+73162688,Airport,Unknown,Peterborough,<Null>,CYPQ,44.2294269,78.3662388,628,0,0,0,0,,,,,226.621,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,178,0,0
+73162689,Hospital Heliport,Unknown,Peterborough (Regional Health Centre),<Null>,CNU3,44.2994917,78.3488526,738,0,0,0,0,,,,,14.547,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,179,0,0
+73162690,Hospital Heliport,Unknown,Cobourg (Northumberland Hills Hospital),<Null>,CNB4,43.9778002,78.1983859,343,0,0,0,0,,,,,8.056,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,180,0,0
+73162547,Airport,Unknown,Red Lake,<Null>,CYRL,51.0675546,93.7922037,1265,0,0,0,0,,,,,168.716,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,181,0,0
+73162548,Hospital Heliport,Unknown,Red Lake (Margaret Cochenour Mem Hospital),<Null>,CRL3,51.0131522,93.8221226,1254,0,0,0,0,,,,,3.782,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,182,0,0
+73162549,Hospital Heliport,Unknown,Hagersville (West Haldimand General Hospital),<Null>,CPA6,42.9584117,80.0448303,730,0,0,0,0,,,,,5.085,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,183,0,0
+73162550,Airport,Unknown,Simcoe (Dennison Field),<Null>,CPA4,42.8197443,80.264211,722,0,0,0,0,,,,,29.21,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,184,0,0
+73162551,Hospital Heliport,Unknown,Simcoe (Norfolk Gen Hospital),<Null>,CPA8,42.8472722,80.3193185,710,0,0,0,0,,,,,1.299,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,185,0,0
+73162552,Airport,Unknown,Nixon,<Null>,CNX8,42.8471842,80.3951506,780,0,0,0,0,,,,,31.76,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,186,0,0
+73162553,Airport,Unknown,Tillsonburg,<Null>,CNQ4,42.9264815,80.7504461,885,0,0,0,0,,,,,247.716,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,187,0,0
+73162554,Airport,Unknown,Straffordville,<Null>,CNS6,42.7400794,80.8169065,732,0,0,0,0,,,,,41.002,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,188,0,0
+73162555,Airport,Unknown,Woodstock,<Null>,CPR5,43.1069272,80.8228558,1040,0,0,0,0,,,,,82.862,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,189,0,0
+73162556,Airport,Unknown,St. Thomas Muni,<Null>,CYQS,42.7701223,81.1071073,778,0,0,0,0,,,,,274.937,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,190,0,0
+73162557,Airport,Unknown,London/Chapeskie Field,<Null>,CLC2,43.0682433,81.1259025,930,0,0,0,0,,,,,10.787,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,191,0,0
+73162558,Airport,Unknown,London,<Null>,CYXU,43.0341116,81.1490419,912,0,0,0,0,,,,,557.864,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,192,0,0
+73162559,Hospital Heliport,Unknown,London (Victoria Hospital),<Null>,CPW2,42.9603861,81.2253995,875,0,0,0,0,,,,,31.059,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,193,0,0
+73162560,Hospital Heliport,Unknown,London (University Hospital),<Null>,CPR4,43.0133287,81.2749641,795,0,0,0,0,,,,,10.35,,Nav Canada,Within 100 metres,,2012/03/28 10:38:07+00,2012/03/29 09:00:55+00,194,0,0
+73162561,Airport,Unknown,Lucan,<Null>,CPS4,43.1628239,81.4119282,960,0,0,0,0,,,,,40.527,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,195,0,0
+73162562,Airport,Unknown,Strathroy (Blue Yonder),<Null>,CPK2,42.9661091,81.5906318,780,0,0,0,0,,,,,32.378,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,196,0,0
+73162563,Airport,Unknown,Melbourne,<Null>,CNM2,42.8242764,81.5491511,735,0,0,0,0,,,,,20.506,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,197,0,0
+73162564,Airport,Unknown,Rodney (New Glasgow),<Null>,CPU3,42.5323372,81.6058566,670,0,0,0,0,,,,,14.48,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,198,0,0
+73162565,Airport,Unknown,Highgate,<Null>,CNA2,42.5525901,81.8034861,710,0,0,0,0,,,,,39.984,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,199,0,0
+73162566,Airport,Unknown,Sarnia (Chris Hadfield),<Null>,CYZR,42.9990599,82.3084934,594,0,0,0,0,,,,,187.5,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,200,0,0
+73162567,Hospital Heliport,Unknown,Chatham (Public General Hospital),<Null>,CPG8,42.4043634,82.1940587,593,0,0,0,0,,,,,2.851,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,201,0,0
+73162568,Airport,Unknown,Chatham-Kent,<Null>,CNZ3,42.3052357,82.0803254,650,0,0,0,0,,,,,174.212,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,202,0,0
+73162569,Airport,Unknown,Stoney Point (Le Cunff),<Null>,CRML,42.2974779,82.5338541,625,0,0,0,0,,,,,26.858,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,203,0,0
+73162570,Airport,Unknown,Leamington,<Null>,CLM2,42.0247554,82.5247177,576,0,0,0,0,,,,,21.214,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,204,0,0
+73162571,Airport,Unknown,Cottam,<Null>,CRB2,42.1398561,82.6537761,635,0,0,0,0,,,,,13.211,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,205,0,0
+73162572,Airport,Unknown,Windsor,<Null>,CYQG,42.2761943,82.9432382,622,0,0,0,0,,,,,761.789,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,206,0,0
+73162573,Airport,Unknown,Essex,<Null>,CNE9,42.0961733,82.8795101,620,0,0,0,0,,,,,4.073,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,207,0,0
+73162574,Airport,Unknown,Harrow,<Null>,CGL2,42.0575665,82.8394895,610,0,0,0,0,,,,,24.365,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,208,0,0
+73162575,Airport,Unknown,Fort Erie,<Null>,CNJ3,42.9175314,78.9553675,625,0,0,0,0,,,,,56.933,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,209,0,0
+73162576,Heliport,Unknown,Fort Erie (Eurocopter Canada),<Null>,CPG3,42.9213525,78.9564658,625,0,0,0,0,,,,,15.544,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,210,0,0
+73162577,Airport,Unknown,Niagara Falls/Niagara South,<Null>,CNF9,42.9996864,79.0623575,576,0,0,0,0,,,,,96.063,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,211,0,0
+73162578,Airport,Unknown,St. Catharines/Niagara District,<Null>,CYSN,43.1916445,79.1716971,321,0,0,0,0,,,,,137.789,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,212,0,0
+73162579,Hospital Heliport,Unknown,Welland (County General Hospital),<Null>,CPB3,42.9788172,79.2490654,585,0,0,0,0,,,,,9.441,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,213,0,0
+73162580,Airport,Unknown,Welland/Niagara Central,<Null>,CNQ3,42.9788994,79.3234047,586,0,0,0,0,,,,,165.607,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,214,0,0
+73162581,Airport,Unknown,Port Colborne,<Null>,CPE5,42.877254,79.3533547,600,0,0,0,0,,,,,27.909,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,215,0,0
+73162582,Airport,Unknown,Dunnville,<Null>,CDU9,42.875354,79.594611,600,0,0,0,0,,,,,139.96,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,216,0,0
+73162583,Hospital Heliport,Unknown,Dunnville (Haldimand War Memorial Hospital),<Null>,CPA9,42.9154864,79.629626,596,0,0,0,0,,,,,14.264,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,217,0,0
+73162584,Airport,Unknown,Grimsby Air Park,<Null>,CNZ8,43.1595195,79.5991016,640,0,0,0,0,,,,,29.366,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,218,0,0
+73162585,Airport,Unknown,Stoney Creek,<Null>,CPF6,43.1698081,79.7068327,680,0,0,0,0,,,,,85.165,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,219,0,0
+73162586,Airport,Unknown,York,<Null>,CPP6,43.0406222,79.8530307,670,0,0,0,0,,,,,42.387,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,220,0,0
+73162587,Airport,Unknown,Hamilton,<Null>,CYHM,43.1719228,79.9299794,780,0,0,0,0,,,,,532.767,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,221,0,0
+73162588,Hospital Heliport,Unknown,Hamilton (General Hospital),<Null>,CPK3,43.2624625,79.8541113,276,0,0,0,0,,,,,4.895,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,222,0,0
+73162589,Hospital Heliport,Unknown,Hamilton (Chedoke-McMaster Hospitals),<Null>,CPJ3,43.2633225,79.9277848,260,0,0,0,0,,,,,26.5,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,223,0,0
+73162590,Airport,Unknown,Rockton,<Null>,CPT3,43.3226884,80.1759399,846,0,0,0,0,,,,,48.805,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,224,0,0
+73162591,Airport,Unknown,Cambridge/Reid`s Field,<Null>,CPE4,43.4426763,80.2312272,1050,0,0,0,0,,,,,39.226,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,225,0,0
+73162592,Airport,Unknown,Guelph,<Null>,CNC4,43.5631836,80.1946549,1100,0,0,0,0,,,,,17.952,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,226,0,0
+73162593,Airport,Unknown,Kitchener/Waterloo,<Null>,CYKF,43.4602925,80.380436,1054,0,0,0,0,,,,,348.929,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,227,0,0
+73162594,Hospital Heliport,Unknown,Kitchener-Waterloo (Grand River Hosp),<Null>,CNK9,43.4527038,80.5048413,1110,0,0,0,0,,,,,3.515,,Nav Canada,Within 100 metres,,2012/03/28 11:15:07+00,2012/03/29 09:00:55+00,228,0,0
+73162776,Airport,Unknown,Wawa,<Null>,CYXZ,47.9657198,84.7897948,942,0,0,0,0,,,,,100.39,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,229,0,0
+73162777,Airport,Unknown,Hornepayne Muni,<Null>,CYHN,49.1958608,84.754839,1099,0,0,0,0,,,,,309.256,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,230,0,0
+73162778,Hospital Heliport,Unknown,Manitouwadge (General Hospital),<Null>,CPU4,49.1276993,85.8243605,1052,0,0,0,0,,,,,3.825,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,231,0,0
+73162779,Airport,Unknown,Manitouwadge,<Null>,CYMG,49.0786019,85.8668908,1198,0,0,0,0,,,,,295.866,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,232,0,0
+73162780,Airport,Unknown,Kapuskasing,<Null>,CYYU,49.4108523,82.4677698,743,0,0,0,0,,,,,165.022,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,233,0,0
+73162781,Airport,Unknown,Hearst (René Fontaine) Muni,<Null>,CYHF,49.714644,83.6898213,827,0,0,0,0,,,,,108.861,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,234,0,0
+73162782,Airport,Unknown,Carey Lake,<Null>,CNX3,49.7446502,84.0310748,837,0,0,0,0,,,,,40.163,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,235,0,0
+73162783,Airport,Unknown,Iroquois Falls,<Null>,CNE4,48.7418471,80.7930058,1008,0,0,0,0,,,,,128.022,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,236,0,0
+73162784,Airport,Unknown,Cochrane,<Null>,CYCN,49.107599,81.0127309,861,0,0,0,0,,,,,175.912,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,237,0,0
+73162785,Airport,Unknown,Moosonee,<Null>,CYMO,51.2928539,80.6072903,30,0,0,0,0,,,,,228.899,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,238,0,0
+73162786,Heliport,Unknown,Moose Factory,<Null>,CPN3,51.2521866,80.6179492,20,0,0,0,0,,,,,21.872,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,239,0,0
+73162787,Airport,Unknown,Fort Albany,<Null>,CYFA,52.2035454,81.6869057,48,0,0,0,0,,,,,98.445,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,240,0,0
+73162788,Airport,Unknown,Kashechewan,<Null>,CZKE,52.282747,81.6758796,35,0,0,0,0,,,,,18.625,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,241,0,0
+73162789,Airport,Unknown,Attawapiskat,<Null>,CYAT,52.9273955,82.4314881,31,0,0,0,0,,,,,15.642,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,242,0,0
+73162790,Airport,Unknown,Peawanuck,<Null>,CYPO,54.9898728,85.4402178,173,0,0,0,0,,,,,153.078,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,243,0,0
+73162791,Airport,Unknown,Fort Severn,<Null>,CYER,56.0185185,87.6763023,52,0,0,0,0,,,,,17.417,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,244,0,0
+73162792,Hospital Heliport,Unknown,Marathon (Wilson Memorial Hospital),<Null>,CPX2,48.7184489,86.3752637,750,0,0,0,0,,,,,3.071,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,245,0,0
+73162793,Airport,Unknown,Marathon,<Null>,CYSP,48.7589653,86.3435803,1035,0,0,0,0,,,,,207.64,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,246,0,0
+73162794,Hospital Heliport,Unknown,Nipigon (District Memorial Hospital),<Null>,CKE9,49.0160836,88.2785588,761,0,0,0,0,,,,,2.099,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,247,0,0
+73162795,Hospital Heliport,Unknown,Beardmore (Health Centre),<Null>,CPY3,49.610169,87.9521027,1015,0,0,0,0,,,,,18.989,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,248,0,0
+73162796,Hospital Heliport,Unknown,Geraldton (District Hospital),<Null>,CPJ4,49.7235812,86.9564355,1101,0,0,0,0,,,,,2.956,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,249,0,0
+73162797,Airport,Unknown,Geraldton (Greenstone Regional),<Null>,CYGQ,49.7774536,86.9366751,1144,0,0,0,0,,,,,223.983,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,250,0,0
+73162798,Airport,Unknown,Nakina,<Null>,CYQN,50.1784063,86.6940371,1057,0,0,0,0,,,,,221.581,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,251,0,0
+73162799,Airport,Unknown,Ogoki Post,<Null>,CNT3,51.6582712,85.9021801,594,0,0,0,0,,,,,24.94,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,252,0,0
+73162800,Airport,Unknown,Fort Hope,<Null>,CYFH,51.5616416,87.9087358,899,0,0,0,0,,,,,40.003,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,253,0,0
+73162801,Airport,Unknown,Miminiska,<Null>,CPS5,51.6042245,88.5825828,1000,0,0,0,0,,,,,6.604,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,254,0,0
+73162802,Airport,Unknown,Lansdowne House,<Null>,CYLH,52.1959441,87.9333061,834,0,0,0,0,,,,,21.063,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,255,0,0
+73162803,Airport,Unknown,Summer Beaver,<Null>,CJV7,52.7109175,88.5425138,832,0,0,0,0,,,,,71.801,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,256,0,0
+73162804,Airport,Unknown,Webequie,<Null>,CYWP,52.958648,87.3746306,685,0,0,0,0,,,,,29.116,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,257,0,0
+73162805,Airport,Unknown,Kasabonika,<Null>,CYAQ,53.524786,88.6427184,672,0,0,0,0,,,,,31.618,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,258,0,0
+73162806,Heliport,Unknown,Armstrong,<Null>,CPE9,50.3073214,89.029206,1125,0,0,0,0,,,,,0.093,,Nav Canada,Within 100 metres,,2012/03/28 10:38:07+00,2012/03/29 09:00:55+00,259,0,0
+73162807,Airport,Unknown,Armstrong,<Null>,CYYW,50.2906275,88.910778,1058,0,0,0,0,,,,,170.69,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,260,0,0
+73162808,Heliport,Unknown,Upsala,<Null>,CKL8,49.050278,90.469167,1581,0,0,0,0,,,,,2.126,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,261,0,0
+73162809,Airport,Unknown,Kakabeka Falls,<Null>,CKG8,48.4196931,89.5974331,1000,0,0,0,0,,,,,55.834,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,262,0,0
+73162810,Airport,Unknown,Thunder Bay,<Null>,CYQT,48.3730774,89.3234975,653,0,0,0,0,,,,,356.723,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,263,0,0
+73162811,Hospital Heliport,Unknown,Thunder Bay (Health Science Centre),<Null>,CTB2,48.424479,89.2691617,705,0,0,0,0,,,,,23.434,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,264,0,0
+73162812,Hospital Heliport,Unknown,Atikokan (General Hospital),<Null>,CKF3,48.7553463,91.5968836,1285,0,0,0,0,,,,,0.829,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,265,0,0
+73162813,Airport,Unknown,Atikokan Muni,<Null>,CYIB,48.7719471,91.6369882,1408,0,0,0,0,,,,,200.888,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,266,0,0
+73162814,Airport,Unknown,Fort Frances Muni,<Null>,CYAG,48.6555574,93.4417261,1125,0,0,0,0,,,,,237.916,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,267,0,0
+73162815,Airport,Unknown,Nestor Falls,<Null>,CJA5,49.1402107,93.9170641,1195,0,0,0,0,,,,,10.639,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,268,0,0
+73162816,Airport,Unknown,Sioux Narrows,<Null>,CKM2,49.3899928,93.996395,1100,0,0,0,0,,,,,5.423,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,269,0,0
+73162817,Airport,Unknown,Kenora,<Null>,CYQK,49.7893856,94.3618927,1332,0,0,0,0,,,,,108.119,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,270,0,0
+73162818,Hospital Heliport,Unknown,Kenora (Lake Of The Woods District Hospital),<Null>,CJG6,49.7681364,94.499142,1100,0,0,0,0,,,,,1.523,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,271,0,0
+73162819,Heliport,Unknown,Ignace,<Null>,CJN3,49.4075316,91.6348828,1500,0,0,0,0,,,,,10.476,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,272,0,0
+73162820,Airport,Unknown,Ignace Muni,<Null>,CZUC,49.428851,91.717309,1435,0,0,0,0,,,,,128.697,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,273,0,0
+73162821,Airport,Unknown,Dryden Regional,<Null>,CYHD,49.8306176,92.7430941,1354,0,0,0,0,,,,,223.679,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,274,0,0
+73162822,Heliport,Unknown,Dryden Best Western,<Null>,CKV3,49.7874097,92.8339234,1200,0,0,0,0,,,,,2.257,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,275,0,0
+73162823,Airport,Unknown,Eagle River,<Null>,CKX3,49.7589089,93.1432286,1210,0,0,0,0,,,,,82.374,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,276,0,0
+73162824,Airport,Unknown,Vermilion Bay,<Null>,CKQ7,49.882032,93.436299,1284,0,0,0,0,,,,,168.627,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,277,0,0
+73162825,Airport,Unknown,Sioux Lookout,<Null>,CYXL,50.1179505,91.904074,1258,0,0,0,0,,,,,222.573,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,278,0,0
+73162826,Airport,Unknown,De Lesseps Lake,<Null>,CKF9,50.7176059,90.6839431,1312,0,0,0,0,,,,,18.069,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,279,0,0
+73162827,Airport,Unknown,Slate Falls,<Null>,CKD9,51.13037,91.66635,1355,0,0,0,0,,,,,37.37,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,280,0,0
+73162828,Airport,Unknown,Pickle Lake,<Null>,CYPL,51.4449052,90.2194119,1267,0,0,0,0,,,,,199.029,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,281,0,0
+73162829,Airport,Unknown,Cat Lake,<Null>,CYAC,51.7271554,91.8251412,1339,0,0,0,0,,,,,26.564,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,282,0,0
+73162830,Airport,Unknown,Opapimiskan Lake,<Null>,CKM8,52.6089099,90.3768484,1023,0,0,0,0,,,,,22.944,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,283,0,0
+73162831,Airport,Unknown,Kingfisher Lake,<Null>,CNM5,53.0123106,89.8542354,866,0,0,0,0,,,,,47.463,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,284,0,0
+73162832,Airport,Unknown,Wunnumin Lake,<Null>,CKL3,52.8929608,89.2888733,819,0,0,0,0,,,,,49.966,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,285,0,0
+73162833,Airport,Unknown,Round Lake (Weagamow Lake),<Null>,CZRJ,52.9453686,91.311098,974,0,0,0,0,,,,,35.407,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,286,0,0
+73162834,Airport,Unknown,Muskrat Dam,<Null>,CZMD,53.4414948,91.7627486,911,0,0,0,0,,,,,47.481,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,287,0,0
+73162835,Airport,Unknown,Sachigo Lake,<Null>,CZPB,53.890574,92.1956781,876,0,0,0,0,,,,,29.098,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,288,0,0
+73162836,Airport,Unknown,Bearskin Lake,<Null>,CNE3,53.9663372,91.0251303,800,0,0,0,0,,,,,53.281,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,289,0,0
+73162837,Airport,Unknown,Big Trout Lake,<Null>,CYTL,53.8179546,89.8969184,729,0,0,0,0,,,,,39.039,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,290,0,0
+73162838,Airport,Unknown,Angling Lake/Wapekeka,<Null>,CKB6,53.847842,89.5765943,712,0,0,0,0,,,,,27.697,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,291,0,0
+73162839,Airport,Unknown,Elliot Lake Muni,<Null>,CYEL,46.3518716,82.5619099,1087,0,0,0,0,,,,,110.717,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,292,0,0
+73162840,Airport,Unknown,Thessalon Muni,<Null>,CPL5,46.3163433,83.532617,750,0,0,0,0,,,,,59.477,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,293,0,0
+73162841,Airport,Unknown,St. Joseph Island,<Null>,CPV3,46.2817365,83.9495053,600,0,0,0,0,,,,,31.565,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,294,0,0
+73162842,Airport,Unknown,Bar River,<Null>,CPF2,46.4195136,84.0975649,591,0,0,0,0,,,,,84.894,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,295,0,0
+73162843,Heliport,Unknown,Sault Ste. Marie,<Null>,CNR3,46.5047453,84.323921,580,0,0,0,0,,,,,4.544,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,296,0,0
+73162844,Airport,Unknown,Sault Ste. Marie,<Null>,CYAM,46.4858321,84.5064521,630,0,0,0,0,,,,,768.278,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,297,0,0
+73162845,Airport,Unknown,Springwater (Barrie Airpark),<Null>,CNA3,44.4078823,79.7311998,963,0,0,0,0,,,,,12.896,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,298,0,0
+73162846,Heliport,Unknown,Toronto/Cardinal Couriers,<Null>,CPL8,43.6313889,79.6647222,612,0,0,0,0,,,,,2.281,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,299,0,0
+73162847,Seaplane Base,Unknown,Grand River,<Null>,CNC6,43.0861111,80.0516667,605,0,0,0,0,,,,,2.303,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,300,0,0
+73162848,Seaplane Base,Unknown,Constance Lake,<Null>,CNQ5,45.4027778,75.9755556,196,0,0,0,0,,,,,2.207,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,301,0,0
+73162849,Seaplane Base,Unknown,Combermere/Kamaniskeg Lake,<Null>,CNP5,45.3833333,77.65,928,0,0,0,0,,,,,2.209,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,302,0,0
+73162850,Seaplane Base,Unknown,Haliburton,<Null>,CNF6,45.0083333,78.5666667,1043,0,0,0,0,,,,,2.226,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,303,0,0
+73162851,Seaplane Base,Unknown,Head Lake,<Null>,CPV5,44.7213889,78.9108333,880,0,0,0,0,,,,,2.238,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,304,0,0
+73162852,Airport,Unknown,Orillia,<Null>,CNJ4,44.6771057,79.3105378,725,0,0,0,0,,,,,74.583,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,305,0,0
+73162853,Seaplane Base,Unknown,Dorset/Kawagama Lake (Old Mill Marina),<Null>,CNK5,45.2673047,78.8094892,1165,0,0,0,0,,,,,3.68,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,306,0,0
+73162854,Seaplane Base,Unknown,Arnprior,<Null>,CNB5,45.4078208,76.3598768,330,0,0,0,0,,,,,2.965,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,307,0,0
+73162855,Seaplane Base,Unknown,Huntsville/Bella Lake,<Null>,CPY7,45.4527176,79.0248169,1168,0,0,0,0,,,,,1.983,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,308,0,0
+73162856,Seaplane Base,Unknown,Gananoque,<Null>,CGN1,44.325,76.1569444,246,0,0,0,0,,,,,2.248,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,309,0,0
+73162857,Seaplane Base,Unknown,Keene/Elmhirst`s Resort,<Null>,CNQ6,44.2514623,78.1041743,613,0,0,0,0,,,,,0.025,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,310,0,0
+73162858,Seaplane Base,Unknown,Renfrew/Hurds Lake,<Null>,CNL6,45.4039062,76.6484577,608,0,0,0,0,,,,,2.207,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,311,0,0
+73162859,Seaplane Base,Unknown,Renfrew/Black Donald Lake,<Null>,CPK8,45.21073,76.9583076,815,0,0,0,0,,,,,2.215,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,312,0,0
+73162860,Seaplane Base,Unknown,Gooderham/Pencil Lake,<Null>,CNN7,44.8064508,78.3514448,1060,0,0,0,0,,,,,2.233,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,313,0,0
+73162861,Seaplane Base,Unknown,Orillia/Lake St John,<Null>,CNV6,44.6816213,79.3076379,718,0,0,0,0,,,,,0.055,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,314,0,0
+73162862,Seaplane Base,Unknown,Port Stanton/Sparrow Lake,<Null>,CNX7,44.798236,79.4114737,698,0,0,0,0,,,,,2.236,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,315,0,0
+73162863,Seaplane Base,Unknown,Orillia/Matchedash Lake,<Null>,CPU5,44.7892132,79.4999332,738,0,0,0,0,,,,,0.008,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,316,0,0
+73162864,Seaplane Base,Unknown,Huntsville,<Null>,CNU6,45.317566,79.2590687,931,0,0,0,0,,,,,2.507,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,317,0,0
+73162865,Seaplane Base,Unknown,Skeleton Lake,<Null>,CPQ7,45.2319445,79.4361111,920,0,0,0,0,,,,,2.219,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,318,0,0
+73162866,Seaplane Base,Unknown,Lake Muskoka/Alport Bay,<Null>,CLM3,45.0211111,79.3827778,739,0,0,0,0,,,,,2.227,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,319,0,0
+73162867,Seaplane Base,Unknown,Lake Rosseau/Windermere,<Null>,CNP2,45.15824,79.5325666,742,0,0,0,0,,,,,2.223,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,320,0,0
+73162868,Seaplane Base,Unknown,Lake Rosseau/Arthurlie Bay,<Null>,CPF9,45.1118702,79.5512399,742,0,0,0,0,,,,,2.224,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,321,0,0
+73162869,Seaplane Base,Unknown,Lake Muskoka/Mortimer`s Point,<Null>,CNC7,45.05,79.5611111,739,0,0,0,0,,,,,2.227,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,322,0,0
+73162870,Seaplane Base,Unknown,Lake Muskoka/Dudley Bay,<Null>,CNT5,45.0331034,79.6020157,739,0,0,0,0,,,,,2.228,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,323,0,0
+73162871,Seaplane Base,Unknown,Port Carling/Butterfly Lake,<Null>,CPY8,45.0938889,79.6305556,765,0,0,0,0,,,,,2.225,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,324,0,0
+73162872,Seaplane Base,Unknown,Bala/Gibson Lake,<Null>,CGL3,44.948705,79.7265802,635,0,0,0,0,,,,,0.581,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,325,0,0
+73162873,Seaplane Base,Unknown,Lake Rosseau/Cameron Bay,<Null>,CPQ6,45.2526076,79.65756,742,0,0,0,0,,,,,2.219,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,326,0,0
+73162874,Seaplane Base,Unknown,Mac Tier/Francis Island,<Null>,CPZ7,45.1502778,80.0191667,580,0,0,0,0,,,,,2.224,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,327,0,0
+73162875,Seaplane Base,Unknown,Parry Sound/Huron Island,<Null>,CPS8,45.180765,80.1070449,580,0,0,0,0,,,,,5.634,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,328,0,0
+73162876,Seaplane Base,Unknown,Parry Sound/Frying Pan Island-Sans Souci,<Null>,CPS9,45.1742348,80.1376375,580,0,0,0,0,,,,,0.707,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,329,0,0
+73162877,Seaplane Base,Unknown,Parry Sound/Derbyshire Island,<Null>,CDS6,45.2444341,80.1548837,580,0,0,0,0,,,,,0.519,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,330,0,0
+73162878,Seaplane Base,Unknown,Parry Sound Harbour,<Null>,CPS1,45.3392267,80.0350131,580,0,0,0,0,,,,,0.451,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,331,0,0
+73162879,Seaplane Base,Unknown,Nobel/Sawdust Bay,<Null>,CNT2,45.4021191,80.1265803,580,0,0,0,0,,,,,1.015,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,332,0,0
+73162880,Seaplane Base,Unknown,Parry Sound/Deep Bay,<Null>,CPT8,45.3986111,80.1819444,580,0,0,0,0,,,,,2.215,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,333,0,0
+73162881,Seaplane Base,Unknown,Portage Lake,<Null>,CND9,45.7737888,80.2404911,710,0,0,0,0,,,,,2.201,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,334,0,0
+73162882,Seaplane Base,Unknown,Smoky Lake,<Null>,CNS2,45.8594946,80.2352955,725,0,0,0,0,,,,,3.005,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,335,0,0
+73162883,Seaplane Base,Unknown,Mattawa,<Null>,CPT7,46.3113889,78.7227778,500,0,0,0,0,,,,,2.175,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,336,0,0
+73162884,Seaplane Base,Unknown,North Bay,<Null>,CNH7,46.3312807,79.4012358,663,0,0,0,0,,,,,0.239,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,337,0,0
+73162885,Seaplane Base,Unknown,Temagami,<Null>,CNC8,47.0627539,79.7934053,962,0,0,0,0,,,,,0.096,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,338,0,0
+73162886,Seaplane Base,Unknown,Manitowaning,<Null>,CPJ9,45.7421805,81.8040906,581,0,0,0,0,,,,,2.208,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,339,0,0
+73162887,Seaplane Base,Unknown,Little Current,<Null>,CNZ9,45.9847922,81.9590937,581,0,0,0,0,,,,,2.199,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,340,0,0
+73162888,Seaplane Base,Unknown,Sudbury/ Azilda,<Null>,CNC5,46.5410696,81.13143,869,0,0,0,0,,,,,1.804,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,341,0,0
+73162889,Seaplane Base,Unknown,Algoma Mills,<Null>,CPN6,46.1880761,82.8240775,602,0,0,0,0,,,,,2.195,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,342,0,0
+73162890,Seaplane Base,Unknown,Bar River,<Null>,CNE5,46.4242627,84.1032453,580,0,0,0,0,,,,,2.193,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,343,0,0
+73162891,Seaplane Base,Unknown,Sault Ste. Marie/Partridge Point,<Null>,CNV7,46.5175395,84.246178,580,0,0,0,0,,,,,1.677,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,344,0,0
+73162892,Seaplane Base,Unknown,Sault Ste. Marie,<Null>,CPX8,46.5029773,84.3248784,580,0,0,0,0,,,,,2.191,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,345,0,0
+73162893,Seaplane Base,Unknown,Batchawana,<Null>,CNF5,46.9191362,84.6061457,601,0,0,0,0,,,,,2.175,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,346,0,0
+73162894,Seaplane Base,Unknown,Five Mile Lake,<Null>,CNY5,47.5577817,83.2219602,1475,0,0,0,0,,,,,2.142,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,347,0,0
+73162895,Seaplane Base,Unknown,Timmins/Porcupine Lake,<Null>,CPW5,48.4775369,81.2055923,900,0,0,0,0,,,,,0.258,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,348,0,0
+73162896,Seaplane Base,Unknown,Gowganda Lake,<Null>,CPL6,47.6505556,80.7852778,930,0,0,0,0,,,,,2.128,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,349,0,0
+73162897,Seaplane Base,Unknown,Elk Lake,<Null>,CNV5,47.7287047,80.3232524,925,0,0,0,0,,,,,2.123,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,350,0,0
+73162898,Seaplane Base,Unknown,Perry Lake,<Null>,CPT6,48.5325,80.1072222,1050,0,0,0,0,,,,,2.09,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,351,0,0
+73162899,Seaplane Base,Unknown,Hawk Junction,<Null>,CNH6,48.0718852,84.5519426,1030,0,0,0,0,,,,,2.127,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,352,0,0
+73162900,Seaplane Base,Unknown,White River,<Null>,CNJ8,48.6269445,85.2233333,1380,0,0,0,0,,,,,2.108,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,353,0,0
+73162901,Seaplane Base,Unknown,Granitehill Lake,<Null>,CND6,49.0973401,85.2026999,1200,0,0,0,0,,,,,2.597,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,354,0,0
+73162902,Seaplane Base,Unknown,Hornepayne,<Null>,CNJ6,49.1890019,84.8844852,1100,0,0,0,0,,,,,2.082,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,355,0,0
+73162903,Seaplane Base,Unknown,Pays Plat,<Null>,CNM7,48.8756395,87.5810744,601,0,0,0,0,,,,,2.112,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,356,0,0
+73162904,Seaplane Base,Unknown,Geraldton/Hutchison Lake,<Null>,CNE6,49.7840331,86.9408776,1125,0,0,0,0,,,,,1.135,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,357,0,0
+73162905,Seaplane Base,Unknown,Nakina,<Null>,CNE7,50.2168364,86.7083235,975,0,0,0,0,,,,,2.048,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,358,0,0
+73162906,Seaplane Base,Unknown,Thunder Bay,<Null>,CKE6,48.455209,89.1747268,601,0,0,0,0,,,,,2.472,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,359,0,0
+73162907,Seaplane Base,Unknown,Kashabowie/Upper Shebandowan Lake,<Null>,CKF5,48.6450836,90.4168983,1474,0,0,0,0,,,,,2.144,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,360,0,0
+73162908,Seaplane Base,Unknown,Cushing Lake,<Null>,CJT7,48.9436237,90.4998595,1500,0,0,0,0,,,,,0.399,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,361,0,0
+73162909,Seaplane Base,Unknown,Armstrong/Waweig Lake,<Null>,CKN6,50.1405778,89.1135342,1025,0,0,0,0,,,,,2.067,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,362,0,0
+73162910,Seaplane Base,Unknown,Armstrong,<Null>,CJF6,50.2631085,89.0424122,1120,0,0,0,0,,,,,2.307,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,363,0,0
+73162911,Seaplane Base,Unknown,Atikokan,<Null>,CJH6,48.7673469,91.6617486,1296,0,0,0,0,,,,,2.15,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,364,0,0
+73162912,Seaplane Base,Unknown,Lac la Croix,<Null>,CJU9,48.35562,92.21375,1184,0,0,0,0,,,,,0.042,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,365,0,0
+73162913,Seaplane Base,Unknown,Sand Point Lake,<Null>,CJD6,48.3417995,92.4539978,1119,0,0,0,0,,,,,2.177,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,366,0,0
+73162914,Seaplane Base,Unknown,Fort Frances,<Null>,CJM8,48.6277778,93.3577778,1107,0,0,0,0,,,,,2.173,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,367,0,0
+73162915,Seaplane Base,Unknown,Rainy River,<Null>,CKQ4,48.7193046,94.587626,1062,0,0,0,0,,,,,0.048,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,368,0,0
+73162916,Seaplane Base,Unknown,Burditt Lake,<Null>,CJC7,48.9194283,93.8020509,1150,0,0,0,0,,,,,0.191,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,369,0,0
+73162917,Seaplane Base,Unknown,Nestor Falls/Sabaskong Bay,<Null>,CKW3,49.1334993,93.9384517,1060,0,0,0,0,,,,,0.11,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,370,0,0
+73162918,Seaplane Base,Unknown,Kenora,<Null>,CJM9,49.7669456,94.4928788,1060,0,0,0,0,,,,,0.252,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,371,0,0
+73162919,Seaplane Base,Unknown,Minaki/Pistol Lake,<Null>,CKP3,49.9770915,94.7159581,1037,0,0,0,0,,,,,2.123,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,372,0,0
+73162920,Seaplane Base,Unknown,Stewart Lake,<Null>,CKV5,49.8266483,93.7130755,1200,0,0,0,0,,,,,2.12,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,373,0,0
+73162921,Seaplane Base,Unknown,Vermilion Bay,<Null>,CKH6,49.86892,93.4021538,1229,0,0,0,0,,,,,2.115,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,374,0,0
+73162922,Seaplane Base,Unknown,Dryden,<Null>,CJD8,49.7622909,92.852407,1201,0,0,0,0,,,,,2.256,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,375,0,0
+73162923,Seaplane Base,Unknown,Ignace,<Null>,CJD9,49.4132343,91.6759545,1486,0,0,0,0,,,,,3.33,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,376,0,0
+73162924,Seaplane Base,Unknown,Savant Lake (Sturgeon Lake),<Null>,CJP3,50.1883336,90.6888114,1342,0,0,0,0,,,,,2.076,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,377,0,0
+73162925,Seaplane Base,Unknown,Hudson,<Null>,CJA9,50.0921258,92.171745,1171,0,0,0,0,,,,,2.822,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,378,0,0
+73162926,Seaplane Base,Unknown,Sioux Lookout,<Null>,CKA6,50.0922031,91.9126953,1171,0,0,0,0,,,,,1.338,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,379,0,0
+73162927,Seaplane Base,Unknown,Staunton Lake,<Null>,CKK8,50.3791349,90.6533177,1365,0,0,0,0,,,,,0.161,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,380,0,0
+73162928,Seaplane Base,Unknown,Pickle Lake,<Null>,CKG4,51.4663863,90.1994973,1180,0,0,0,0,,,,,0.224,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,381,0,0
+73162929,Seaplane Base,Unknown,Round Lake (Weagamow Lake),<Null>,CKP6,52.9486115,91.3496322,951,0,0,0,0,,,,,0.388,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,382,0,0
+73162930,Seaplane Base,Unknown,Ear Falls,<Null>,CJE8,50.5807547,93.1660802,1171,0,0,0,0,,,,,2.079,,Nav Canada,Within 100 metres,,2012/03/28 10:37:58+00,2012/03/29 09:00:55+00,383,0,0
+73162931,Seaplane Base,Unknown,Confederation Lake,<Null>,CJL7,51.0509608,92.8226517,1323,0,0,0,0,,,,,1.466,,Nav Canada,Within 100 metres,,2012/03/28 10:38:03+00,2012/03/29 09:00:55+00,384,0,0
+73162932,Seaplane Base,Unknown,Red Lake,<Null>,CKS4,51.0200635,93.8229575,1165,0,0,0,0,,,,,1.905,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,385,0,0
+73162933,Seaplane Base,Unknown,Pikangikum,<Null>,CKH4,51.7993277,93.9948994,1076,0,0,0,0,,,,,2.028,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,386,0,0
+73162934,Seaplane Base,Unknown,Deer Lake,<Null>,CJA8,52.6177966,94.0451631,1017,0,0,0,0,,,,,1.989,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,387,0,0
+73162935,Seaplane Base,Unknown,Deer Lake/Keyamawun,<Null>,CJZ7,52.6825801,94.4319499,1017,0,0,0,0,,,,,1.823,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,388,0,0
+73162936,Seaplane Base,Unknown,Sandy Lake,<Null>,CKE5,53.0568742,93.3324384,901,0,0,0,0,,,,,1.962,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,389,0,0
+73162937,Seaplane Base,Unknown,Big Hook Wilderness Camp,<Null>,CJS6,53.5634645,92.9504507,860,0,0,0,0,,,,,1.935,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,390,0,0
+73162938,Seaplane Base,Unknown,Toronto/Billy Bishop Toronto City Airport,<Null>,CPZ9,43.6331915,79.3943548,246,0,0,0,0,,,,,0.021,,Nav Canada,Within 100 metres,,2012/03/28 10:37:57+00,2012/03/29 09:00:55+00,391,0,0
+73162939,Seaplane Base,Unknown,Hearst/Carey Lake,<Null>,CNJ5,49.7440682,84.0244415,812,0,0,0,0,,,,,2.054,,Nav Canada,Within 100 metres,,2012/03/28 10:38:00+00,2012/03/29 09:00:55+00,392,0,0
+73162940,Seaplane Base,Unknown,Nestor Falls,<Null>,CKT3,49.1069061,93.9193803,1076,0,0,0,0,,,,,4.312,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,393,0,0
+73162941,Seaplane Base,Unknown,Cochrane,<Null>,CNN5,49.1016719,81.0228675,807,0,0,0,0,,,,,2.069,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,394,0,0
+73162942,Seaplane Base,Unknown,Moosonee,<Null>,CNB7,51.2610624,80.6552046,0,0,0,0,0,,,,,1.236,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,395,0,0
+73162943,Seaplane Base,Unknown,Temagami/Mine Landing,<Null>,CTM2,46.9605778,80.0247886,962,0,0,0,0,,,,,2.723,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,396,0,0
+73162944,Seaplane Base,Unknown,Sudbury/Ramsey Lake,<Null>,CNB8,46.4809368,80.9853199,810,0,0,0,0,,,,,2.176,,Nav Canada,Within 100 metres,,2012/03/28 10:38:05+00,2012/03/29 09:00:55+00,397,0,0
+73162945,Seaplane Base,Unknown,Port Loring,<Null>,CNQ7,45.8921716,80.1027692,668,0,0,0,0,,,,,2.196,,Nav Canada,Within 100 metres,,2012/03/28 10:38:02+00,2012/03/29 09:00:55+00,398,0,0
+73162946,Seaplane Base,Unknown,Little Lake,<Null>,CPT5,44.4188812,79.6652712,775,0,0,0,0,,,,,2.251,,Nav Canada,Within 100 metres,,2012/03/28 10:37:59+00,2012/03/29 09:00:55+00,399,0,0
+73162947,Seaplane Base,Unknown,Chapleau,<Null>,CNL5,47.85,83.4,1443,0,0,0,0,,,,,3.154,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,400,0,0
+73162948,Seaplane Base,Unknown,Ottawa/Rockcliffe,<Null>,CTR7,45.4635513,75.6425772,125,0,0,0,0,,,,,1.245,,Nav Canada,Within 100 metres,,2012/03/28 10:38:01+00,2012/03/29 09:00:55+00,401,0,0
+73162949,Airport,Unknown,Tobermory,<Null>,CNR4,45.2209621,81.6279956,700,0,0,0,0,,,,,104.42,,Nav Canada,Within 100 metres,,2012/03/28 10:38:04+00,2012/03/29 09:00:55+00,402,0,0
+73162950,Heliport,Unknown,Sioux Lookout,<Null>,CKF7,50.0762287,91.9182836,1181,0,0,0,0,,,,,2.086,,Nav Canada,Within 100 metres,,2012/03/28 10:38:06+00,2012/03/29 09:00:55+00,403,0,0
