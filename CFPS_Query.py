@@ -9,7 +9,7 @@ def main():
 
     The program should support a query against any of the 7 FIR regions or a specific Aerodrome identifier. When
     executing, parameters are as follows: CFPS_Query.py <Location Code> <Query Type> i.e. CFPS_Query.py CYKF
-    WindsAloft CFPS_Query.py CYYZ PIREP
+    UpperWind CFPS_Query.py CYYZ PIREP
 
     Each query type should have its own function to grab and parse the data.
     """
