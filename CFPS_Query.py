@@ -14,12 +14,12 @@ def main():
     Each query type should have its own function to grab and parse the data.
     """
 
-    # TO DO : Determine the best way to handle additional parameters for options, such as:
+    # TODO : Determine the best way to handle additional parameters for options, such as:
     #           - Upper winds (high, low or both?)
     #           - METAR (current or future data?)
 
-    # TO DO : Is there a need to get a range around a specific aerodrome? Doesn't apply to the FIR, does it make most
-    # sense to just get the JSON for the FIR and parse it for relevant info?
+    # TODO : Is there a need to get a range around a specific aerodrome? Doesn't apply to the FIR, does it make most
+    #  sense to just get the JSON for the FIR and parse it for relevant info?
 
     parser = argparse.ArgumentParser(description='CFPS parser for specific location and report type')
 
@@ -86,12 +86,19 @@ def aerodrome_location_lookup(location_code):
     # points. URL used to retrieve a CSV of Ontario aerodromes:
     # https://geohub.lio.gov.on.ca/datasets/f03edc813b4542bdad0f1bbaa58b70b6/explore
 
-    # TO DO : Determine how to get aerodrome info for regions outside of Ontario TO DO : Determine if the lat/long
-    # positions are important for FIRs. Because there are only 7, can likely be stored in an array alongside the FIR
-    # codes
-    # TO DO : Figure out how to consolidate issues with the DMS co-ords not matching what the CFPS is expecting. They
-    # can be off by 1 from what CFPS expects, anything more than that seems to return an empty data set. See CYVV as
-    # an example
+    # TODO : Determine how to get aerodrome info for regions outside of Ontario
+
+    # TODO : Determine if the lat/long positions are important for FIRs. Because there are only 7, can likely be
+    #  stored in an array alongside the FIR codes
+
+    # TODO : Figure out how to consolidate issues with the DMS co-ords not matching what the CFPS is expecting. They
+    #  can be off by 1 from what CFPS expects, anything more than that seems to return an empty data set. See CYVV as
+    #  an example.
+    #
+    #  This may be solved by adding &radius=1 onto the search string. While the DMS co-ords are slightly
+    #  off as the data is old, adding a small radius around the point that is close to the aerodrome seems to work.
+    #  Not an elegant solution as this could cause issues in the future if the locations continue to shift slightly.
+    #
 
     aerodrome_location_file = 'assets/ontario_official_airports.csv'
 
@@ -161,15 +168,15 @@ def parse_upper_winds(cfps_query_url):
 
     """
 
-    # TO DO : Is FBCN31 always valid at 1800Z or do those codes rotate based on current time?
+    # TODO : Is FBCN31 always valid at 1800Z or do those codes rotate based on current time?
 
-    # TO DO : Try to confirm why temp does not always show up? Example below where the temp at 3000ft is returned as
-    # null. Is it not available?
-    # ["FBCN35", "CWAO", "2023-11-10T15:30:00+00:00", "2023-11-10T12:00:00+00:00",
-    # "2023-11-11T12:00:00+00:00", "2023-11-11T06:00:00+00:00", "2023-11-11T18:00:00+00:00", null, null, null, null,
-    # [[18000,280,37,-24,0],[3000,310,17,null,0],[6000,330,11,-7,0],[9000,300,20,-10,0],[12000,300,21,-14,0]]]
+    # TODO : Try to confirm why temp does not always show up? Example below where the temp at 3000ft is returned as
+    #  null. Is it not available?
+    #  ["FBCN35", "CWAO", "2023-11-10T15:30:00+00:00", "2023-11-10T12:00:00+00:00",
+    #  "2023-11-11T12:00:00+00:00", "2023-11-11T06:00:00+00:00", "2023-11-11T18:00:00+00:00", null, null, null, null,
+    #  [[18000,280,37,-24,0],[3000,310,17,null,0],[6000,330,11,-7,0],[9000,300,20,-10,0],[12000,300,21,-14,0]]]
 
-    # TO DO : Do positive temps show up with a + or just as an int? Only have negative temps currently, need to confirm
+    # TODO : Do positive temps show up with a + or just as an int? Only have negative temps currently, need to confirm
     #           what positive temps look like when available.
 
     cfps_query_url += "&upperwind_choice=both"
