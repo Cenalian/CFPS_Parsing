@@ -4,6 +4,14 @@ import requests
 import json
 from datetime import datetime
 
+log_file_name="logs/CFPS_Query.log"
+
+def write_log(message, function="unknown"):
+    current_time = datetime.now().strftime("%d %b %Y %H:%M:%S")
+    log_entry = "{:<20} {:<20} {}\n".format(current_time,function,message)
+    with open(log_file_name, "a") as log_file:
+        log_file.write(log_entry)
+
 def main():
     """ Main method for querying the CFPS site to get information on an Aerodrome or FIR.
 
@@ -46,13 +54,13 @@ def main():
     }
 
     # Your program logic goes here
-    print(f'Location: {location_code}')
-    print(f'Type of data : {data_type}')
+    write_log(f'Location: {location_code}', function="main")
+    write_log(f'Type of data : {data_type}', function="main")
 
     if data_type in function_mapping:
         function_mapping[data_type](cfps_query_url)
     else:
-        print(f'{data_type} is not currently supported as an option for querying')
+        write_log(f'{data_type} is not currently supported as an option for querying', function="main")
 
 
 def craftUrl(location_code, data_type):
@@ -181,19 +189,19 @@ def parse_upper_winds(cfps_query_url):
 
     cfps_query_url += "&upperwind_choice=both"
 
-    print(f"{cfps_query_url}")
+    write_log(f"CFPS URL: {cfps_query_url}", function="parse_upper_winds")
     response = requests.get(cfps_query_url)
     json_data = response.json()
 
     if json_data.get("data") and len(json_data["data"]) > 0:
         for element in json_data["data"]:
 
-            print (element.get("location") + "  " +
+            write_log(element.get("location") + "  " +
                    json.loads(element.get("text"))[1] + "  " +
                    "Issued at: " + datetime.fromisoformat(json.loads(element.get("text"))[3]).strftime("%Y-%m-%d %H:%M:%S %Z") + "  " +
-                   "Valid from : " + datetime.fromisoformat(json.loads(element.get("text"))[4]).strftime("%Y-%m-%d %H:%M:%S %Z"))
-            print("For use starting : " + datetime.fromisoformat(json.loads(element.get("text"))[5]).strftime("%Y-%m-%d %H:%M:%S %Z") + "  " +
-                   "Ending " + datetime.fromisoformat(json.loads(element.get("text"))[6]).strftime("%Y-%m-%d %H:%M:%S %Z"))
+                   "Valid from : " + datetime.fromisoformat(json.loads(element.get("text"))[4]).strftime("%Y-%m-%d %H:%M:%S %Z"), function="parse_upper_winds")
+            write_log("For use starting : " + datetime.fromisoformat(json.loads(element.get("text"))[5]).strftime("%Y-%m-%d %H:%M:%S %Z") + "  " +
+                   "Ending " + datetime.fromisoformat(json.loads(element.get("text"))[6]).strftime("%Y-%m-%d %H:%M:%S %Z"), function="parse_upper_winds")
 
             winds_aloft_values_array = json.loads(element.get("text"))[-1]
             winds_aloft_values_array_sorted = sorted(winds_aloft_values_array, key=lambda x: x[0])
@@ -204,13 +212,12 @@ def parse_upper_winds(cfps_query_url):
                 wind_speed = str(winds_aloft_level_values[2])
                 temperature = str(winds_aloft_level_values[3])
 
-                print("   " + level + " feet AGL | Winds "
+                write_log("   " + level + " feet AGL | Winds "
                       + wind_direction + "@" +
                       wind_speed + " | Temp " +
-                      temperature)
-            print("")
+                      temperature, function="parse_upper_winds")
     else:
-        print("No winds aloft data reported")
+        write_log("No winds aloft data reported", function="parse_upper_winds")
 
 
 if __name__ == '__main__':
