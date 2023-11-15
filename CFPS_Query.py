@@ -1,3 +1,13 @@
+"""
+2023-11-13 - Original version
+
+2023-11-14
+    - Discovered a crappy fix to the issue of the coordinates being slight off by adding a radius value. Works
+    for now but need to find a better solution.
+    - Added a logging method to better capture output and history to allow.
+
+"""
+
 import argparse
 import csv
 import requests
