@@ -1,0 +1,48 @@
+14 Nov 2023 23:03:42 main                 Location: CYYZ
+14 Nov 2023 23:03:42 main                 Type of data : upperwind
+14 Nov 2023 23:03:42 parse_upper_winds    CFPS URL: https://plan.navcanada.ca/weather/api/alpha/?point=CYYZ|site|-79.630,43.678&alpha=upperwind&upperwind_choice=both
+14 Nov 2023 23:03:43 parse_upper_winds    YYZ  KWNO  Issued at: 2023-11-15 00:00:00 UTC  Valid from : 2023-11-15 06:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds    For use starting : 2023-11-15 02:00:00 UTC  Ending 2023-11-15 09:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds       24000 feet AGL | Winds 280@55 | Temp -29
+14 Nov 2023 23:03:43 parse_upper_winds       30000 feet AGL | Winds 290@62 | Temp -44
+14 Nov 2023 23:03:43 parse_upper_winds       34000 feet AGL | Winds 290@69 | Temp -54
+14 Nov 2023 23:03:43 parse_upper_winds       39000 feet AGL | Winds 280@73 | Temp -63
+14 Nov 2023 23:03:43 parse_upper_winds       45000 feet AGL | Winds 280@74 | Temp -63
+14 Nov 2023 23:03:43 parse_upper_winds       53000 feet AGL | Winds 290@46 | Temp -61
+14 Nov 2023 23:03:43 parse_upper_winds    YYZ  KWNO  Issued at: 2023-11-15 00:00:00 UTC  Valid from : 2023-11-16 00:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds    For use starting : 2023-11-15 18:00:00 UTC  Ending 2023-11-16 06:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds       24000 feet AGL | Winds 290@41 | Temp -34
+14 Nov 2023 23:03:43 parse_upper_winds       30000 feet AGL | Winds 290@53 | Temp -49
+14 Nov 2023 23:03:43 parse_upper_winds       34000 feet AGL | Winds 280@63 | Temp -55
+14 Nov 2023 23:03:43 parse_upper_winds       39000 feet AGL | Winds 270@77 | Temp -59
+14 Nov 2023 23:03:43 parse_upper_winds       45000 feet AGL | Winds 280@72 | Temp -59
+14 Nov 2023 23:03:43 parse_upper_winds       53000 feet AGL | Winds 280@51 | Temp -60
+14 Nov 2023 23:03:43 parse_upper_winds    YYZ  KWNO  Issued at: 2023-11-15 00:00:00 UTC  Valid from : 2023-11-15 12:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds    For use starting : 2023-11-15 09:00:00 UTC  Ending 2023-11-15 18:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds       24000 feet AGL | Winds 270@62 | Temp -31
+14 Nov 2023 23:03:43 parse_upper_winds       30000 feet AGL | Winds 270@65 | Temp -45
+14 Nov 2023 23:03:43 parse_upper_winds       34000 feet AGL | Winds 270@72 | Temp -54
+14 Nov 2023 23:03:43 parse_upper_winds       39000 feet AGL | Winds 280@72 | Temp -63
+14 Nov 2023 23:03:43 parse_upper_winds       45000 feet AGL | Winds 270@75 | Temp -64
+14 Nov 2023 23:03:43 parse_upper_winds       53000 feet AGL | Winds 280@55 | Temp -59
+14 Nov 2023 23:03:43 parse_upper_winds    YYZ  CWAO  Issued at: 2023-11-15 00:00:00 UTC  Valid from : 2023-11-15 06:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds    For use starting : 2023-11-15 02:00:00 UTC  Ending 2023-11-15 09:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds       3000 feet AGL | Winds 230@22 | Temp None
+14 Nov 2023 23:03:43 parse_upper_winds       6000 feet AGL | Winds 260@24 | Temp 7
+14 Nov 2023 23:03:43 parse_upper_winds       9000 feet AGL | Winds 280@27 | Temp 0
+14 Nov 2023 23:03:43 parse_upper_winds       12000 feet AGL | Winds 290@37 | Temp -6
+14 Nov 2023 23:03:43 parse_upper_winds       18000 feet AGL | Winds 280@47 | Temp -17
+14 Nov 2023 23:03:43 parse_upper_winds    YYZ  CWAO  Issued at: 2023-11-15 00:00:00 UTC  Valid from : 2023-11-15 12:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds    For use starting : 2023-11-15 09:00:00 UTC  Ending 2023-11-15 18:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds       3000 feet AGL | Winds 240@36 | Temp None
+14 Nov 2023 23:03:43 parse_upper_winds       6000 feet AGL | Winds 250@38 | Temp 8
+14 Nov 2023 23:03:43 parse_upper_winds       9000 feet AGL | Winds 250@36 | Temp 2
+14 Nov 2023 23:03:43 parse_upper_winds       12000 feet AGL | Winds 260@41 | Temp -6
+14 Nov 2023 23:03:43 parse_upper_winds       18000 feet AGL | Winds 260@59 | Temp -17
+14 Nov 2023 23:03:43 parse_upper_winds    YYZ  CWAO  Issued at: 2023-11-15 00:00:00 UTC  Valid from : 2023-11-16 00:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds    For use starting : 2023-11-15 18:00:00 UTC  Ending 2023-11-16 06:00:00 UTC
+14 Nov 2023 23:03:43 parse_upper_winds       3000 feet AGL | Winds 270@22 | Temp None
+14 Nov 2023 23:03:43 parse_upper_winds       6000 feet AGL | Winds 290@27 | Temp 5
+14 Nov 2023 23:03:43 parse_upper_winds       9000 feet AGL | Winds 290@25 | Temp 0
+14 Nov 2023 23:03:43 parse_upper_winds       12000 feet AGL | Winds 290@30 | Temp -6
+14 Nov 2023 23:03:43 parse_upper_winds       18000 feet AGL | Winds 300@31 | Temp -20
